@@ -1,0 +1,23 @@
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Development/IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+# (Add any other dependency directories used in your project)
+venv/
+lib/
+dist/
+
+# Generated files
+*.egg-info/
+build/

@@ -1,8 +1,8 @@
-# Aadhar App
+# The Aadhar
 
 ![Aadhar App Logo](/path/to/logo.png)
 
-Aadhar App is a tool for supporting folks to do Robotic Process Automation (RPA) or Intelligent Business Automation (IBA) in a better way. It provides features for task completion, communication with clients, and incorporates machine learning for enhanced automation capabilities.
+Aadhar Application is a tool for supporting folks to do Robotic Process Automation (RPA) or Intelligent Business Automation (IBA) in a better way. It provides features for task completion, communication with clients, and incorporates machine learning for enhanced automation capabilities.
 
 ## Technology Stack
 
@@ -22,8 +22,17 @@ Aadhar App is a tool for supporting folks to do Robotic Process Automation (RPA)
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/Aadhar_App.git
+   git clone https://github.com/Vashishtha-Enterprise/Aadhar.git
    ```
+
+## Usage
+
+To run the Aadhar App, use the following command:
+
+```shell
+python main.py
+```
+
 
 ## Help and Support
 
@@ -54,28 +63,16 @@ We welcome contributions from the community! To contribute to the Aadhar App pro
 5. Commit and push your changes to your forked repository.
 6. Submit a pull request.
 
-## Usage
-
-To run the Aadhar App, use the following command:
-
-```shell
-python main.py
-```
-
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Copyright
 
-© [Year] [Your Name]
+© [2023] [Vashishtha Enterprise]
 
 ## Acknowledgement
 
 We would like to acknowledge the following individuals and organizations for their contributions and support to the Aadhar App project:
 
-- [Person/Organization 1]
-- [Person/Organization 2]
-- [Person/Organization 3]
-- ...
+- Raje Abhilash Mohite - Persistent Systems
