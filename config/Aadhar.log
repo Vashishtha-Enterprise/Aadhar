@@ -1,0 +1,40 @@
+What is Aadhar App?
+Aadhar App is the tool which helps support folks to do Robotic Process Automation (RPA) or Intelligent Business Automation (IBA) in a better way.
+
+Which Tools/API/Software will Aadhar App will support?
+- UiPath Orchestrator (Core)
+- Outlook (Core)
+- INC
+- JIRA
+- CR
+- Confluence
+- Service-Desk
+- MS Teams
+Above are the tools which I will add to Aadhar App.
+
+Lets study the Process structure for IBA.:
+1.Process i.e., Bots
+2.Clients or Stakeholders
+3.Validations
+4.Monitoring
+5.Reports
+6.Change Requests/Modifications
+
+How we will create the project structure. We will be using Python, PyQt and APIs for this very purpose.
+Can you please give folder structure and how to manage this Aadhar App.
+
+I want to create Markdown (Readme.md) file for Aadhar Project.
+In that file I want following things.
+
+1. Project Name, Description, Author and Version
+2. Technical Description
+3. Installation
+4. Usage
+5. Help and Support
+6. FAQ
+7. Contributing
+8. License
+9. Copyright
+10. Acknowledgement
+
+Please add details of each point as you know pretti much about this project Aadhar App.
